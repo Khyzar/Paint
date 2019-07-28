@@ -1,0 +1,34 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (paint.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  dibutil.cxx
+  drawing.cxx
+e:\bs(cs)\gitrepos\paint\paint\paint\drawing.cxx(819): warning C4101: 'tries': unreferenced local variable
+e:\bs(cs)\gitrepos\paint\paint\paint\drawing.cxx(859): warning C4101: 'answer': unreferenced local variable
+e:\bs(cs)\gitrepos\paint\paint\paint\drawing.cxx(1110): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: see declaration of 'strcat'
+  file.cxx
+  main.cpp
+e:\bs(cs)\gitrepos\paint\paint\paint\main.cpp(53): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\bs(cs)\gitrepos\paint\paint\paint\main.cpp(56): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\bs(cs)\gitrepos\paint\paint\paint\main.cpp(144): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\bs(cs)\gitrepos\paint\paint\paint\main.cpp(153): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\bs(cs)\gitrepos\paint\paint\paint\main.cpp(201): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\bs(cs)\gitrepos\paint\paint\paint\main.cpp(205): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  misc.cxx
+e:\bs(cs)\gitrepos\paint\paint\paint\misc.cxx(595): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+e:\bs(cs)\gitrepos\paint\paint\paint\misc.cxx(596): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+e:\bs(cs)\gitrepos\paint\paint\paint\misc.cxx(597): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+e:\bs(cs)\gitrepos\paint\paint\paint\misc.cxx(598): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+e:\bs(cs)\gitrepos\paint\paint\paint\misc.cxx(599): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+  mouse.cxx
+  palette.cxx
+  text.cxx
+e:\bs(cs)\gitrepos\paint\paint\paint\text.cxx(348): warning C4018: '<': signed/unsigned mismatch
+  winbgi.cxx
+e:\bs(cs)\gitrepos\paint\paint\paint\winbgi.cxx(134): warning C4101: 'actual_color': unreferenced local variable
+e:\bs(cs)\gitrepos\paint\paint\paint\winbgi.cxx(133): warning C4101: 'bgi_color': unreferenced local variable
+e:\bs(cs)\gitrepos\paint\paint\paint\winbgi.cxx(494): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+  winthread.cxx
+e:\bs(cs)\gitrepos\paint\paint\paint\winthread.cxx(320): warning C4101: 'i': unreferenced local variable
+  Generating Code...
+  bgi.vcxproj -> E:\BS(CS)\GitRepos\Paint\Paint\PAINT\Debug\bgi.exe

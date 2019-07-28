@@ -1,0 +1,21 @@
+﻿  main.cpp
+e:\bs(cs)\c++\visual studio 2012\projects\paint\paint\main.cpp(53): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\bs(cs)\c++\visual studio 2012\projects\paint\paint\main.cpp(56): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\bs(cs)\c++\visual studio 2012\projects\paint\paint\main.cpp(144): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\bs(cs)\c++\visual studio 2012\projects\paint\paint\main.cpp(153): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\bs(cs)\c++\visual studio 2012\projects\paint\paint\main.cpp(201): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\bs(cs)\c++\visual studio 2012\projects\paint\paint\main.cpp(205): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+main.obj : error LNK2019: unresolved external symbol _circle referenced in function "void __cdecl Interface(void)" (?Interface@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol _cleardevice referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _ellipse referenced in function "void __cdecl Interface(void)" (?Interface@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol _floodfill referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _line referenced in function "void __cdecl Interface(void)" (?Interface@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol _putpixel referenced in function "void __cdecl Interface(void)" (?Interface@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol _rectangle referenced in function "void __cdecl Interface(void)" (?Interface@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol _setfillstyle referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _initwindow referenced in function "void __cdecl Interface(void)" (?Interface@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol _writeimagefile referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _outtextxy referenced in function "void __cdecl Interface(void)" (?Interface@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol _getmouseclick referenced in function "public: virtual void __thiscall circal::draw(int)" (?draw@circal@@UAEXH@Z)
+main.obj : error LNK2019: unresolved external symbol _ismouseclick referenced in function "public: virtual void __thiscall circal::draw(int)" (?draw@circal@@UAEXH@Z)
+E:\BS(CS)\C++\Visual Studio 2012\Projects\PAINT\Debug\paint.exe : fatal error LNK1120: 13 unresolved externals
